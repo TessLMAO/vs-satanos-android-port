@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				60
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-89,
+				170
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				168
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				91
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "singUP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/satanos_the_crackhog",
+	"position": [
+		30,
+		270
+	],
+	"healthicon": "satanos",
+	"flip_x": false,
+	"healthbar_colors": [
+		125,
+		140,
+		229
+	],
+	"camera_position": [
+		10,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 3
+}
